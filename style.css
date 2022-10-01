@@ -1,0 +1,156 @@
+
+body{
+	
+		margin: 0;
+		text-align: center;
+		color: #40514E;
+	
+}
+
+.logo{
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	width: 7%;
+}
+h1{
+	margin-top:0;
+	margin: 50px auto 0 auto ;
+	font-family: 'Sacramento', cursive,'Brush Script MT', cursive;
+	font-size: 5.625rem;
+	color: #66BFBF;
+	line-height: 2.5;
+
+}
+h2{
+	font-size: 2.5rem;
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	color: #66BFBF;
+	padding: 10px;
+}
+h3{
+	font-family: Verdana, sans-serif;
+	color: #11999E;
+	font-size: 1.7rem;
+
+}
+
+
+a{
+	color: #11999E  ;
+	margin: 20px 20px 30px 30px;
+	text-decoration: none;
+}
+a:hover{
+	color:#674747;
+
+}
+.footer-link{
+	font-size: 1.5rem;
+	color: #11999E;
+	text-decoration: none;
+}
+.footer-link:hover{
+	color: #EAF6F6;
+	
+}
+p{
+	font-size: 1.5rem;
+	line-height: 2;
+}
+hr{
+	border:6px dotted #EAF6F6 ;
+	width: 10%;
+	border-bottom: none;
+	margin: 100px auto;
+	
+
+}
+.intro{
+	width: 30%;
+	margin: auto;
+}
+.coder{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.foodie{
+	width: 30%;
+	float: right;
+	margin-left: 30px;
+}
+.gamer{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.top-container{
+	background-color: #DFF6FF;
+	padding-top: 150px;
+	
+}
+
+.middle-container{
+	margin: 100px 0;
+	
+
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 200px auto;
+	text-align: left;
+	line-height: 2;
+	}
+
+.top-cloud{
+	position: absolute;
+	top: 50pxpx;
+	right: 22%;
+}
+.bottom-cloud{
+	position: absolute;
+	left: 22%;
+
+}
+.bottom-container{
+	padding: 50px 0 20px;
+	background-color: #66BFBF;
+	
+	
+}
+
+.btn {
+	padding-top: 20px;
+  background: #a82ade;
+  background-image: -webkit-linear-gradient(top, #a82ade, #00e6ff);
+  background-image: -moz-linear-gradient(top, #a82ade, #00e6ff);
+  background-image: -ms-linear-gradient(top, #a82ade, #00e6ff);
+  background-image: -o-linear-gradient(top, #a82ade, #00e6ff);
+  background-image: linear-gradient(to bottom, #a82ade, #00e6ff);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ed1f1f;
+  background-image: -webkit-linear-gradient(top, #ed1f1f, #ed1313);
+  background-image: -moz-linear-gradient(top, #ed1f1f, #ed1313);
+  background-image: -ms-linear-gradient(top, #ed1f1f, #ed1313);
+  background-image: -o-linear-gradient(top, #ed1f1f, #ed1313);
+  background-image: linear-gradient(to bottom, #ed1f1f, #ed1313);
+  text-decoration: none;
+}
+.copyright{
+	color: #EAF6F6;
+	font-size: 1rem;
+	padding: 20px 0;
+}
